@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/wachira/stark/quatrix-mobile-carrier/node_modules/react-native-floating-bubble/android/build/intermediates/res/merged/release/animator/bubble_shown_animator.xml",
+        "source": "/home/wachira/.gradle/caches/transforms-3/3f13f8bdc5907c88fff51e595e1ca6a2/transformed/jetified-bubbles-for-android-develop-SNAPSHOT/res/animator/bubble_shown_animator.xml"
+    },
+    {
+        "merged": "/home/wachira/stark/quatrix-mobile-carrier/node_modules/react-native-floating-bubble/android/build/intermediates/res/merged/release/animator/bubble_trash_hide_animator.xml",
+        "source": "/home/wachira/.gradle/caches/transforms-3/3f13f8bdc5907c88fff51e595e1ca6a2/transformed/jetified-bubbles-for-android-develop-SNAPSHOT/res/animator/bubble_trash_hide_animator.xml"
+    },
+    {
+        "merged": "/home/wachira/stark/quatrix-mobile-carrier/node_modules/react-native-floating-bubble/android/build/intermediates/res/merged/release/animator/bubble_down_click_animator.xml",
+        "source": "/home/wachira/.gradle/caches/transforms-3/3f13f8bdc5907c88fff51e595e1ca6a2/transformed/jetified-bubbles-for-android-develop-SNAPSHOT/res/animator/bubble_down_click_animator.xml"
+    },
+    {
+        "merged": "/home/wachira/stark/quatrix-mobile-carrier/node_modules/react-native-floating-bubble/android/build/intermediates/res/merged/release/animator/bubble_trash_hide_magnetism_animator.xml",
+        "source": "/home/wachira/.gradle/caches/transforms-3/3f13f8bdc5907c88fff51e595e1ca6a2/transformed/jetified-bubbles-for-android-develop-SNAPSHOT/res/animator/bubble_trash_hide_magnetism_animator.xml"
+    },
+    {
+        "merged": "/home/wachira/stark/quatrix-mobile-carrier/node_modules/react-native-floating-bubble/android/build/intermediates/res/merged/release/animator/bubble_trash_shown_magnetism_animator.xml",
+        "source": "/home/wachira/.gradle/caches/transforms-3/3f13f8bdc5907c88fff51e595e1ca6a2/transformed/jetified-bubbles-for-android-develop-SNAPSHOT/res/animator/bubble_trash_shown_magnetism_animator.xml"
+    },
+    {
+        "merged": "/home/wachira/stark/quatrix-mobile-carrier/node_modules/react-native-floating-bubble/android/build/intermediates/res/merged/release/animator/bubble_up_click_animator.xml",
+        "source": "/home/wachira/.gradle/caches/transforms-3/3f13f8bdc5907c88fff51e595e1ca6a2/transformed/jetified-bubbles-for-android-develop-SNAPSHOT/res/animator/bubble_up_click_animator.xml"
+    },
+    {
+        "merged": "/home/wachira/stark/quatrix-mobile-carrier/node_modules/react-native-floating-bubble/android/build/intermediates/res/merged/release/animator/bubble_trash_shown_animator.xml",
+        "source": "/home/wachira/.gradle/caches/transforms-3/3f13f8bdc5907c88fff51e595e1ca6a2/transformed/jetified-bubbles-for-android-develop-SNAPSHOT/res/animator/bubble_trash_shown_animator.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/wachira/stark/quatrix-mobile-carrier/node_modules/react-native-floating-bubble/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/wachira/.gradle/caches/transforms-3/c950bd5dcab2e521c20673652d5445a4/transformed/core-1.0.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/wachira/stark/quatrix-mobile-carrier/node_modules/react-native-floating-bubble/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/wachira/.gradle/caches/transforms-3/c950bd5dcab2e521c20673652d5445a4/transformed/core-1.0.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/wachira/stark/quatrix-mobile-carrier/node_modules/react-native-floating-bubble/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/wachira/.gradle/caches/transforms-3/c950bd5dcab2e521c20673652d5445a4/transformed/core-1.0.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/wachira/stark/quatrix-mobile-carrier/node_modules/react-native-floating-bubble/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/wachira/.gradle/caches/transforms-3/c950bd5dcab2e521c20673652d5445a4/transformed/core-1.0.1/res/layout-v21/notification_action.xml"
+    }
+]

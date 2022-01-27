@@ -1,0 +1,9 @@
+com/reactlibrary/RNFloatingBubbleModule.java
+ com.reactlibrary.RNFloatingBubbleModule
+ com.reactlibrary.RNFloatingBubbleModule$1
+ com.reactlibrary.RNFloatingBubbleModule$2
+ com.reactlibrary.RNFloatingBubbleModule$3
+com/reactlibrary/BuildConfig.java
+ com.reactlibrary.BuildConfig
+com/reactlibrary/RNFloatingBubblePackage.java
+ com.reactlibrary.RNFloatingBubblePackage
